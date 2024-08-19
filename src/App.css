@@ -1,0 +1,13 @@
+.kg-row{
+  padding: 10px;
+}
+.add-btn{
+  width:100px;
+  
+}
+.delete-btn{
+  width:100px;
+}
+.col{
+  text-align: left;
+}
